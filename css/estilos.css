@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html {
+    margin: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#contacto {
+    background-image: url(../images/fondo-contacto.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#proyectos {
+    background-image: url(../images/fondo-proyectos.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    color: #e2000e;
+    font-size: 36px;
+}
+
+p {
+    color: #6a6a6a;
+    font-size: 16px;
+}
+
+.form-control {
+    border-radius: 14px;
+}
+
+.btn-blanco {
+    background-color: white;
+    color: #370a6d;
+    border-radius: 15px;
+}
+
+.btn-blanco:hover {
+    color: yellow;
+    background-color: blue;
+}
+
+.btn-rojo {
+    background-color: red;
+    color: white;
+    border-radius: 15px;
+}
+
+.btn-rojo:hover {
+    color: yellow;
+    background-color: blue;
+}
+
+.nav-link {
+    color: black;
+}
+nav .active {
+    color: red;
+    border: 1px solid;
+    border-radius: 40px;
+}
+
+textarea {
+    height: 140px;
+}
+
+footer,
+footer a {
+    background-color: red;
+    color: white;
+    font-weight: 100;
+}
+
+.whatsapp {
+    position: fixed;
+    right: 30px;
+    bottom: 0px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: black;
+}
+
+.fa-whatsapp-square {
+    font-size: 36px;
+    color: #e2000e;
+}
+
+.proyecto h2 {
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 8px;
+    color: white;
+    background-color: red;
+
+}
+
+.proyecto p {
+    font-size: 14px;
+    height: 148px;
+}
+
+.proyecto {
+    border: 1 solid #6a6a6a;
+    background-color: white;
+}
+
+.proyecto img {
+    height: 208px;
+}
+
+@media (max-width:750px) {
+    #contacto {
+        background-image: url(../images/fondo-proyectos.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+}
+
