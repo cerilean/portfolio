@@ -60,7 +60,7 @@
         </div>
         <div class="row">
             <div class="col-12 text-center">
-                <a href="proyectos.html" class="btn shadow tiempo">Conoce mis proyectos</a>
+                <a href="proyectos.php" class="btn shadow tiempo">Conoce mis proyectos</a>
             </div>
         </div>
 
