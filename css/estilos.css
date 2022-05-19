@@ -128,3 +128,13 @@ footer a {
     background-repeat: no-repeat;
     background-size: 100%;
 }
+.p-1 {
+    color: white;
+    border: 1px solid;
+    border-radius: 40px;
+}
+.tiempo {
+    border: 1px solid;
+    border-radius: 40px;
+    background-color: white;
+}
