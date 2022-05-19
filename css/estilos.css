@@ -120,4 +120,11 @@ footer a {
         background-size: 100%;
     }
 }
-
+.cohete {
+    height: 400px;
+}
+#inicio {
+    background-image: url(../images/fondo-contacto.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
