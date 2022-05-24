@@ -2,7 +2,7 @@
 <html lang="es">
 
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
     <script src="css/bootstrap/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="css/estilos.css">
-    <title>Document</title>
+    <title>Sobre mi</title>
 </head>
 
 <body>
@@ -37,7 +37,7 @@
                         </li>
                     </ul>
                     <div class="d-flex">
-                        <button class="btn btn-curri" type="submit">Descargar mi CV</button>
+                        <button class="btn btn-rojo" type="submit"><i class="fa-solid fa-file-arrow-down"></i>Descargar mi CV</button>
                     </div>
                 </div>
             </div>

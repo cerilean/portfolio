@@ -37,8 +37,7 @@
                         </li>
                     </ul>
                     <div class="d-flex">
-                        <button class="btn btn-rojo" type="submit"><i class="fa-solid fa-file-arrow-down"></i>Descargar
-                            mi CV</button>
+                        <button class="btn btn-rojo" type="submit"><i class="fa-solid fa-file-arrow-down"></i>Descargar mi CV</button>
                     </div>
                 </div>
             </div>
