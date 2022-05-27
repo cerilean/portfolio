@@ -24,7 +24,15 @@ h1 {
     color: #e2000e;
     font-size: 36px;
 }
-
+h3 {
+    color: black;
+}
+h4 {
+    color: black;
+}
+h5 {
+    color: gray;
+}
 p {
     color: #6a6a6a;
     font-size: 16px;
@@ -74,14 +82,15 @@ footer a {
     background-color: red;
     color: white;
     font-weight: 100;
+    bottom: 0px;
 }
 
 .whatsapp {
     position: fixed;
     right: 30px;
     bottom: 0px;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
     background-color: black;
 }
 
@@ -140,5 +149,17 @@ footer a {
 }
 
 #tecnologias {
+    background-color: #e2000e;
+}
+.tecno {
+    font-size: 15px;
+}
+.foto {
+    border-radius: 145px;
+    border-color: red;
+}
+.carda {
+    font-size: 130px;
+    color: white;
     background-color: red;
 }
